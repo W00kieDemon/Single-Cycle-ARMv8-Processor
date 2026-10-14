@@ -1,0 +1,1 @@
+The Verilog files in here are miscellaneous logical circuits necessary to build the larger modules. To learn more about any of these modules or the design of these modules, feel free to click into the associated markdown files.
